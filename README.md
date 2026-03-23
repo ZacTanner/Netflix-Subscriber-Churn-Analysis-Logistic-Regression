@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds an interpretable logistic regression model to predict subscriber churn and identify key drivers, enabling targeted retention strategies.
+This project builds an interpretable logistic regression model to predict subscriber churn and identify key drivers, enabling targeted retention strategies. The data set used for this analysis was obtained from [Kaggle](https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset/data).
 
 ## Model Performance
 - ROC AUC: 0.822 (strong predictive power)
